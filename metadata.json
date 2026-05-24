@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual Exam Prep Portal",
+  "description": "A high-performance multilingual practice platform for AP, IELTS, SAT, IB, and UNT exams with real 2025–2026 questions, granular AI mistake explanations, and an always-available learning assistant in Kazakh, Uzbek, Kyrgyz, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
